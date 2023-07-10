@@ -1,0 +1,9 @@
+
+Analysis/feature/
+Datasets/
+Datasets/Caltech-256/*.*/*.jpg
+Feature_gen/*.npz
+Feature_gen/temp
+Pre-experiments/
+Reference/
+*.pptx
